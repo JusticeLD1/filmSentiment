@@ -7,7 +7,7 @@ python-dotenv==1.0.0
 moviepy==1.0.3
 
 # AI/ML components
-torch==2.0.1  # Base for AI models
+torch==2.6.0  # Base for AI models
 openai-whisper==20230314  # For transcription
 transformers==4.28.1  # For Hugging Face models
 sentencepiece==0.1.99  # Required by some transformer models
